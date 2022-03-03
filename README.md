@@ -1,13 +1,9 @@
 # EE538
+This class is learning c++ programming language, data structure and algorithms
+This file contains C++ learning projects and HWs. 
+- HW1: Syntax of C++
+- HW2: Array, Vector, Pointers
+- HW3: Stack, Queue, map, class (different constructors), time and space complexity, Linked List
 
+To Be Continue
 
-edit 1 from computer
-
-edit 2 from computer
-
-edit 3 from computer
-edit 3 from github
-
-Token: 
-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
-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
